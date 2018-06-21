@@ -6,11 +6,12 @@
   "dependencies": {
     "express": "^4.16.3",
     "ip": "^1.1.5",
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "socket.io": "^1.4.8"
   },
   "devDependencies": {},
-  "engines":{
-    "node":"6.11.3"
+  "engines": {
+    "node": "6.11.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
